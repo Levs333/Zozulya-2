@@ -1,0 +1,34 @@
+body{
+    background-color:#ffeab8;
+}
+nav a {
+    color: black;
+    background-color: #c0a463;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid #96804f;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 135px;
+}
+p { 
+  color: #b38d37; 
+  font-size: 20px; 
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+    color: #a37e27;
+}
+main img {
+
+width: 335px;
+height: 300px;
+
+}
+
+main h2 {
+    text-align: center;
+    font-size: 60px;
+    color: #a37e27;
+}
